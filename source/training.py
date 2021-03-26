@@ -4,7 +4,7 @@ import sagemaker
 
 from sagemaker.pytorch import PyTorch
 from torchvision import datasets, transforms
-from torchvision.datasets import MNIST
+#from torchvision.datasets import MNIST
 
 
 prefix = "sagemaker/pytorch-mnist"
